@@ -2,9 +2,9 @@
 
 # Hi, I'm Nhữ Trung Hải 👋
 
-### Web Developer • Student • Full-stack Learner
+### Web Developer • University Student • Full-stack Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=I+build+modern+web+applications;I+love+React%2C+TypeScript+and+Backend+APIs;Always+learning+and+improving+every+day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+modern+web+applications;I+love+React%2C+TypeScript+and+Backend+APIs;Always+learning+and+improving+every+day" alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently building web apps and school projects.
+- 🔭 I’m currently building full-stack web apps, mobile apps, and university projects.
 - 🌱 I’m learning deeper about **React**, **TypeScript**, **Node.js**, **C#**, and **system design**.
 - 🧠 I enjoy solving problems, improving UI/UX, and writing cleaner code.
 - 🚀 Goal: become a strong full-stack developer.
@@ -72,11 +72,11 @@
 
 <div align="center">
 
-<a href="https://github.com/nhutrunghai/quiz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhutrunghai&repo=quiz&theme=tokyonight&hide_border=true" alt="quiz" />
+<a href="https://github.com/nhutrunghai/Project-JobGo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhutrunghai&repo=Project-JobGo&theme=tokyonight&hide_border=true" alt="JobGo Fullstack" />
 </a>
-<a href="https://github.com/nhutrunghai/WebEducation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhutrunghai&repo=WebEducation&theme=tokyonight&hide_border=true" alt="WebEducation" />
+<a href="https://github.com/nhutrunghai/mobile-topcv">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhutrunghai&repo=mobile-topcv&theme=tokyonight&hide_border=true" alt="TopCV Mobile Clone" />
 </a>
 
 </div>
