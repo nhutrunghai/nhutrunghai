@@ -72,8 +72,8 @@
 
 <div align="center">
 
-<a href="https://github.com/nhutrunghai/Project-JobGo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhutrunghai&repo=Project-JobGo&theme=tokyonight&hide_border=true" alt="JobGo Fullstack" />
+<a href="https://github.com/nhutrunghai/jobgo-fullstack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhutrunghai&repo=jobgo-fullstack&theme=tokyonight&hide_border=true" alt="JobGo Fullstack" />
 </a>
 <a href="https://github.com/nhutrunghai/mobile-topcv">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhutrunghai&repo=mobile-topcv&theme=tokyonight&hide_border=true" alt="TopCV Mobile Clone" />
